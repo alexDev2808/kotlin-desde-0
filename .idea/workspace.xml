@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97cfbf0e-267c-4ba6-9858-0e5e69645f19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variables.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/estructuras_control.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.VariablesKt">
+  <component name="RunManager" selected="Kotlin.Estructuras_controlKt">
+    <configuration name="Estructuras_controlKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Estructuras_controlKt" />
+      <module name="kotlin-desde-0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="kotlin-desde-0" />
@@ -57,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Estructuras_controlKt" />
         <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
