@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97cfbf0e-267c-4ba6-9858-0e5e69645f19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/while_do_while.kt.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/estructuras_control.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/estructuras_control.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -39,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Estructuras_controlKt">
+  <component name="RunManager" selected="Kotlin.While_do_while_ktKt">
     <configuration name="Estructuras_controlKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Estructuras_controlKt" />
       <module name="kotlin-desde-0" />
@@ -61,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="While_do_while_ktKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While_do_while_ktKt" />
+      <module name="kotlin-desde-0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.While_do_while_ktKt" />
         <item itemvalue="Kotlin.Estructuras_controlKt" />
         <item itemvalue="Kotlin.VariablesKt" />
         <item itemvalue="Kotlin.MainKt" />
