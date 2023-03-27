@@ -15,4 +15,11 @@ fun main(args: Array<String>) {
 
     println(resultado)
 
+
+//    Elvis Operator asignar un valor por defecto
+//    Convertir un elemento de tipo nullable en no nullable
+    val caracteresDeNombre : Int = nombre?.length ?: 0
+
+    println(caracteresDeNombre)
+
 }
