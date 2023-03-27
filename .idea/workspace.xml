@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97cfbf0e-267c-4ba6-9858-0e5e69645f19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/for.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/try_catch.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ForKt">
+  <component name="RunManager" selected="Kotlin.Try_catchKt">
     <configuration name="Estructuras_controlKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Estructuras_controlKt" />
       <module name="kotlin-desde-0" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="Try_catchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try_catchKt" />
       <module name="kotlin-desde-0" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Try_catchKt" />
         <item itemvalue="Kotlin.ForKt" />
         <item itemvalue="Kotlin.While_do_while_ktKt" />
         <item itemvalue="Kotlin.Estructuras_controlKt" />
         <item itemvalue="Kotlin.VariablesKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
